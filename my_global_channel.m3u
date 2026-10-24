@@ -1,3 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="OBS Stream" tvg-logo="" group-title="Custom Channels",My Global OBS Channel
-udp://@krnkk-151-48-124-31.run.pinggy-free.link:52622
+udp://oclmi-151-48-124-31.run.pinggy-free.link:50550
+
